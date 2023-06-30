@@ -1,6 +1,6 @@
 # Banco-de-dados
 
-```markdown
+
 # Exemplo de Uso do Node.js e PostgreSQL
 
 Este repositório contém exemplos de código em Node.js para interagir com um banco de dados PostgreSQL. Os exemplos incluem comandos para criar tabelas, inserir dados e atualizar dados no banco de dados.
