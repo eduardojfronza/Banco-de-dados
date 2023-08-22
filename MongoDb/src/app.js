@@ -1,8 +1,7 @@
 import express from "express"; // Importa o módulo Express
 import db from "./config/db_connect.js";
-import livros from "./models/Livro.js";
 import routes from "./Routes/index.js";
-import router from "./Routes/livrosRoutes.js";
+
 
 
 db.on("erro", console.log.bind(console, 'Erro de conexão'));
